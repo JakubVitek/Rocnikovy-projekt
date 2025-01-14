@@ -51,7 +51,7 @@ Také bych chtěl poděkovat mému strejdovi, který mi pomohl se zapojením a d
 
 
 <img src="https://github.com/user-attachments/assets/d2e3db08-30f6-4e5c-98ed-fec08c02b9bd/" width="400" height="400" />
-<img src="https://github.com/JakubVitek/Rocnikovy-projekt/blob/main/IMG-20250111-WA0003.jpg?raw=true" width="400" height="400" />
+<img src="https://github.com/JakubVitek/Rocnikovy-projekt/blob/c9464e296986cd4d1f4790741952fc51dab79314/IMG-20250111-WA0000.jpg" width="400" height="400" />
 <img src="https://github.com/JakubVitek/Rocnikovy-projekt/blob/main/IMG-20250111-WA0001.jpg?raw=true" width="400" height="400" />
 <img src="https://github.com/JakubVitek/Rocnikovy-projekt/blob/main/IMG-20250111-WA0000.jpg?raw=true" width="400" height="400" />
 <img src="https://github.com/JakubVitek/Rocnikovy-projekt/blob/main/20250111_113803.jpg?raw=true" width="400" height="400" />
