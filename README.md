@@ -41,6 +41,4 @@ Tento projekt mi poskytl praktickou zkušenost se sestavováním elektrických o
 ## Licence
 
 
-![Alt text](https://github.com/user-attachments/assets/d2e3db08-30f6-4e5c-98ed-fec08c02b9bd)
-
-
+<img src="https://github.com/user-attachments/assets/d2e3db08-30f6-4e5c-98ed-fec08c02b9bd/" width="400" height="400" />
