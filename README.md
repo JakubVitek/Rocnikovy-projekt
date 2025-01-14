@@ -50,7 +50,7 @@ Chtěl bych poděkovat mému tátovi, který mi opatřil tyto elektrické přís
 Také bych chtěl poděkovat mému strejdovi, který mi pomohl se zapojením a dbal na mou bezpečnost.
 
 <p align="left">
- <img src="https://github.com/user-attachments/assets/d2e3db08-30f6-4e5c-98ed-fec08c02b9bd/" width="400" height="400" />
+<img src="https://github.com/user-attachments/assets/d2e3db08-30f6-4e5c-98ed-fec08c02b9bd/" width="400" height="400" />
 <p align="right">
  <img src="https://github.com/JakubVitek/Rocnikovy-projekt/blob/c9464e296986cd4d1f4790741952fc51dab79314/IMG-20250111-WA0000.jpg" width="400" height="400" />
 <p align="right">
