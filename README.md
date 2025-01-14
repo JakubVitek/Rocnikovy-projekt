@@ -29,7 +29,8 @@ Začlenění jističů do obvodů bylo nezbytné pro zajištění jejich bezpeč
 Předtím, než jsem obvody otestoval a připojil k elektrické síti, provedl jsem důkladnou kontrolu jejich správnosti a bezpečnosti. Kontrola byla provedená mým strýcem, který se profesionálně zabývá elektrikářskou prací. Tato kontrola zajistila, že obvody byly správně zapojené, bezpečné a připravené k testování, čímž se minimalizovalo riziko jakýchkoliv škod nebo úrazů.
 
 ## Odkaz na youtube
-
+https://youtube.com/shorts/PZVZyK8twGY?feature=share
+https://youtube.com/shorts/iKnMfLqozSk
 
 ## Pár obrázků zapojených obvodů
 
