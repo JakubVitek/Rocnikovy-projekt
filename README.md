@@ -28,6 +28,12 @@ Začlenění jističů do obvodů bylo nezbytné pro zajištění jejich bezpeč
 
 Předtím, než jsem obvody otestoval a připojil k elektrické síti, provedl jsem důkladnou kontrolu jejich správnosti a bezpečnosti. Kontrola byla provedená mým strýcem, který se profesionálně zabývá elektrikářskou prací. Tato kontrola zajistila, že obvody byly správně zapojené, bezpečné a připravené k testování, čímž se minimalizovalo riziko jakýchkoliv škod nebo úrazů.
 
+## Odkaz na youtube
+
+
+## Pár obrázků zapojených obvodů
+
+
 ## Závěr
 
 Projekt byl úspěšně dokončen a všechny obvody byly bezpečně sestaveny a otestovány. Důraz na ochranu obvodů pomocí jističů a dalších ochranných prvků zaručil, že byly splněny požadavky na bezpečnost a spolehlivost.
@@ -38,7 +44,13 @@ Tento projekt mi poskytl praktickou zkušenost se sestavováním elektrických o
 
 - **Jakub Vítek** – [GitHub profil](https://github.com/JakubVitek)
 
-## Licence
+## Poděkování na závěr
+Chtěl bych poděkovat mému tátovi, který mi opatřil tyto elektrické přístroje a pomohl mi s mnoha dalšímy věcmi.
+Také bych chtěl poděkovat mému strejdovi, který mi pomohl se zapojením a dbal na mou bezpečnost.
 
 
 <img src="https://github.com/user-attachments/assets/d2e3db08-30f6-4e5c-98ed-fec08c02b9bd/" width="400" height="400" />
+<img src="https://github.com/user-attachments/assets/d2e3db08-30f6-4e5c-98ed-fec08c02b9bd/" width="400" height="400" />
+<img src="https://github.com/user-attachments/assets/d2e3db08-30f6-4e5c-98ed-fec08c02b9bd/" width="400" height="400" />
+
+
