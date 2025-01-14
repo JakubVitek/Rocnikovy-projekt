@@ -51,6 +51,10 @@ Projekt byl úspěšně dokončen a všechny obvody byly bezpečně sestaveny a 
 
 Tento projekt mi poskytl praktickou zkušenost se sestavováním elektrických obvodů a pomohl mi lépe pochopit principy fungování ochranných prvků v elektronice.
 
+## Citace
+OpenAI. "Odpověď generovaná pomocí ChatGPT." *ChatGPT*, 2025, https://chat.openai.com/.
+
+
 ## Autoři
 
 - **Jakub Vítek** – [GitHub profil](https://github.com/JakubVitek)
